@@ -12,4 +12,5 @@ This is a Machine learning project aimed at accurately identifying diseases in p
 ### Output
 
 Graphs for Training vs Validation Accuracy & Training vs Loss
-<img src="demo.png" alt="Demo">
+
+<img src="demo.png" alt="Demo" />
